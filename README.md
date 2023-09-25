@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I am [Mariam AlMesfer]()!👋 </h1>
 
-<p align="center">
+<p align="left">
 🔥 a Backend Developer passionate about crafting elegant solutions to complex challenges.
 💻 With a love for problem-solving, I thrive in backend development, architecting robust code that powers seamless functionality and performance.
 💬 Let's connect and geek out about backend development! I'm always eager to collaborate and learn from fellow developers.
