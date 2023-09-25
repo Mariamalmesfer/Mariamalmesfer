@@ -1,4 +1,4 @@
-### Hi there I am [Mariam AlMesfer]()!👋
+<h1 align="center">### Hi there I am [Mariam AlMesfer]()!👋 </h1>
 
 🔥 Passionate about technology and driven by a love for backend development.
 
