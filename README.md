@@ -8,7 +8,7 @@
 </p>
 
 ### 🖥  Languages and Tools:
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/67427643/124337403-1d284100-dbab-11eb-9e9e-5f33876256d7.png" alt="spring boot" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714485-1ba4c500-96f1-11eb-8ef7-166ae8e265ac.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://user-images.githubusercontent.com/67427643/124337513-9fb10080-dbab-11eb-9a16-cce6a0d3489e.jpg" alt="sql" height="40" style="vertical-align:top; margin:4px">
