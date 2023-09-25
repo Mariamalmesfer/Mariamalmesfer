@@ -5,7 +5,6 @@
   - 💻 With a love for problem-solving.
   - 💬 Let's connect and geek out about backend development! I'm always eager to collaborate and learn from fellow developers.
   - 🚀 Constantly exploring new technologies.
-  
 </p>
 
 ### 🖥  Languages and Tools:
