@@ -3,7 +3,7 @@
 <p>
   
   - 🔥 a Backend Developer passionate about crafting elegant solutions to complex challenges.
-  - 💻 With a love for problem-solving, I thrive in backend development, architecting robust code that powers seamless functionality and performance.
+  - 💻 With a love for problem-solving.
   - 💬 Let's connect and geek out about backend development! I'm always eager to collaborate and learn from fellow developers.
   - 🚀 Constantly exploring new technologies.
 
