@@ -6,10 +6,7 @@
   - 💬 Let's connect and geek out about backend development! I'm always eager to collaborate and learn from fellow developers.
   - 🚀 Constantly exploring new technologies.
 
-  - 🔭 I’m currently working on Backend using Java|Spring Boot framworke. 
-- 🌱 I’m currently learning UX/UI Design. 
-- 💞️ I’m looking to collaborate on Web Development and UX/UI Design. 
-- 💬 Ask me about Java, spring boot, and UX/UI Design. 
+
 </p>
 
 ### 🖥  Languages and Tools:
