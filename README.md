@@ -24,5 +24,5 @@
 ### 📫 How to Reach me:
 You can find me on the following linkedIn platform or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/mariam-m-almesfer-418994185/)
-* ✉️ [sarakalhussain@hotmail.com](mailto:Almesfermariam@outlook.com)
+* ✉️ [Almesfermariam@outlook.com](mailto:Almesfermariam@outlook.com)
 
