@@ -15,22 +15,8 @@
 </P>
 
 
-
-
-
-
-
-
-Mariamalmesfer/Mariamalmesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 How to Reach me:
+You can find me on the following linkedIn platform or send me an email:
+* 👔 [LinkedIn](https://www.linkedin.com/in/mariam-m-almesfer-418994185/)
+* ✉️ [sarakalhussain@hotmail.com](mailto:Almesfermariam@outlook.com)
 
